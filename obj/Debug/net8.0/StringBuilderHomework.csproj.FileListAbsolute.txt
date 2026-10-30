@@ -1,0 +1,14 @@
+/home/cesium/projects/StringBuilderHomework/bin/Debug/net8.0/StringBuilderHomework
+/home/cesium/projects/StringBuilderHomework/bin/Debug/net8.0/StringBuilderHomework.deps.json
+/home/cesium/projects/StringBuilderHomework/bin/Debug/net8.0/StringBuilderHomework.runtimeconfig.json
+/home/cesium/projects/StringBuilderHomework/bin/Debug/net8.0/StringBuilderHomework.dll
+/home/cesium/projects/StringBuilderHomework/bin/Debug/net8.0/StringBuilderHomework.pdb
+/home/cesium/projects/StringBuilderHomework/obj/Debug/net8.0/StringBuilderHomework.GeneratedMSBuildEditorConfig.editorconfig
+/home/cesium/projects/StringBuilderHomework/obj/Debug/net8.0/StringBuilderHomework.AssemblyInfoInputs.cache
+/home/cesium/projects/StringBuilderHomework/obj/Debug/net8.0/StringBuilderHomework.AssemblyInfo.cs
+/home/cesium/projects/StringBuilderHomework/obj/Debug/net8.0/StringBuilderHomework.csproj.CoreCompileInputs.cache
+/home/cesium/projects/StringBuilderHomework/obj/Debug/net8.0/StringBuilderHomework.dll
+/home/cesium/projects/StringBuilderHomework/obj/Debug/net8.0/refint/StringBuilderHomework.dll
+/home/cesium/projects/StringBuilderHomework/obj/Debug/net8.0/StringBuilderHomework.pdb
+/home/cesium/projects/StringBuilderHomework/obj/Debug/net8.0/StringBuilderHomework.genruntimeconfig.cache
+/home/cesium/projects/StringBuilderHomework/obj/Debug/net8.0/ref/StringBuilderHomework.dll
